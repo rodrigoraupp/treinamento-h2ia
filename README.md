@@ -10,6 +10,8 @@ Os códigos deste repositório incluem:
 ## Organização do repo
 
     treinamento-h2ia
+    ├── semana_2/
+    │   └── Introdução a Python.ipynb
     ├── semana_4/
     │   └── Buscas sem informação.ipynb
     └── README.md
